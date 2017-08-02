@@ -1,0 +1,23 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asyncawait": "^1.0.6",
+    "body-parser": "^1.17.2",
+    "download-file": "^0.1.5",
+    "express": "^4.15.3",
+    "fb-bot-framework": "^0.3.0",
+    "file-system": "^2.2.2",
+    "image-downloader": "^3.2.2",
+    "lower-case": "^1.1.4",
+    "mongodb": "^2.2.29",
+    "request": "^2.81.0"
+  }
+}
